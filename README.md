@@ -10,11 +10,13 @@ basic blog app user can post, edit , delete and explore blogs.
 
 
 ## Getting Started
-  git clone https://github.com/Shivam-Singh0/blog-client.git
-  cd client
-  npm install
-  npm run dev
-
+ 1. git clone https://github.com/Shivam-Singh0/blog-client.git
+ 2. cd client
+ 3. npm install
+ 4. create .env file in root dir :-
+    - JWT_SECRET = jwt secret key
+ 6. npm run dev
+  
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
